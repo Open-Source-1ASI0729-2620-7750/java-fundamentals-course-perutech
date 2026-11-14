@@ -29,9 +29,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 2: Operadores y Estructuras de Control (13:10 minutos)
 * **Descripción:** Realiza operaciones, toma decisiones con `if-else` y repite tareas con bucles `for` y `while`.
-* **Enlace:** [Ver la lección]([https://www.youtube.com/watch?v=example-link2](https://www.youtube.com/watch?v=w2DgzHzalvQ))
-* **Conclusiones clave:** `if (age > 12) {}`; `for (int i = 0; i < 5; i++) {}`
-* **Práctica:** [Clic para programar]([https://replit.com/@your-variables-java](https://onlinegdb.com/-HlatXPEr)) **¡No es necesario registrarse!**
+* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=w2DgzHzalvQ)
+* **Conclusiones clave:** `if (monedas >= precio) {}`; `for (int i = 1; i <= 3; i++) {}`; `while (energia > 0) {}`.
+* **Práctica:** [Clic para programar](https://onlinegdb.com/-HlatXPEr) **¡No es necesario registrarse!**
 
 
 ### Lección 3: Métodos y Entrada/Salida de Datos (12 minutos)
