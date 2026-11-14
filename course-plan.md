@@ -70,7 +70,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | Número de lección | Actividad | Empezar a programar |
 | :--- | :--- | :--- |
 | 1 | Hola mundo y Variables | [OnlineGDB](https://www.onlinegdb.com/) |
-| 2 | Decisiones y Bucles | [Replit](https://replit.com/@your-lesson2) |
+| 2 | Decisiones y Bucles | [OnlineGDB](https://www.onlinegdb.com/) |
 | 3 | Métodos y Scanner | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4 | Clases y Encapsulación | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
 | 5 | Proyecto Integrador POO | [Replit](https://replit.com/@your-lesson5) |
