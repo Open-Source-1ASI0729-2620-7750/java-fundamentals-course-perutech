@@ -20,10 +20,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 ## Secuencia de la Lección
 
 
-### Lección 1: ¿Qué es Java y la Programación? (12 minutos)
+### Lección 1: ¿Qué es Java y la Programación? (10:35 minutos)
 * **Descripción:** Aprende qué es la programación, por qué Java es un excelente lenguaje para empezar y cómo declarar tus primeras variables.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link1)
-* **Conclusiones clave:** Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras; uso de `int` y `String`.
+* **Enlace:** [Ver la lección](https://youtu.be/O-vM5T0-jkY)
+* **Conclusiones clave:** Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras; uso de `int`, `String` y `boolean`.
 * **Empieza a programar:** [Clic para programar](https://www.onlinegdb.com/)
 
 
