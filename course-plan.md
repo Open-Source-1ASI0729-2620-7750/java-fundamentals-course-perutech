@@ -81,7 +81,7 @@ Agrega a Diego con nota 9 e inclúyelo en `grupo`. Comprueba que aparezcan los c
 
 ### Lección 5: Estructuras de Datos, Proyecto Final y Mejores Prácticas (12 minutos)
 * **Descripción:** Combina arrays con objetos para construir una aplicación completa desde cero y aprende a evitar errores comunes de principiante.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+* **Enlace:** [Ver la lección]([https://www.youtube.com/watch?v=example-link5](https://www.youtube.com/watch?v=1MZSEopU-hY))
 * **Conclusiones clave:** Arreglos de objetos, depuración básica y buenas prácticas en Java.
 * **Proyecto final:** [Crea tu aplicación POO](https://replit.com/@your-final-java) **¡Guarda y comparte!**
 
