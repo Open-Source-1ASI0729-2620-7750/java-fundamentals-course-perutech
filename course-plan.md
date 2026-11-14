@@ -34,7 +34,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Práctica:** [Clic para programar](https://onlinegdb.com/-HlatXPEr) **¡No es necesario registrarse!**
 
 
-### Lección 3: Métodos y Entrada/Salida de Datos (12 minutos)
+### Lección 3: Métodos y Entrada/Salida de Datos (7:26 minutos)
 * **Descripción:** Crea código reutilizable con métodos y recibe datos del usuario por consola usando `Scanner`.
 * **Enlace:** [Ver la lección 3.1](https://youtu.be/d8fHd0szHwg?si=q3nGAqhbyXpdQYgX)
 * **Enlace:** [Ver la lección 3.2](https://youtu.be/uKfFyXdJoYU?si=B9qGhec98OymKk-K)
