@@ -79,7 +79,7 @@ El constructor utiliza `setNota()` para aplicar la misma validación desde el pr
 Agrega a Diego con nota 9 e inclúyelo en `grupo`. Comprueba que aparezcan los cuatro estudiantes y el nombre `DIEGO` en mayúsculas. Usa `setNombre()` para cambiar su nombre y consulta sus datos con `getNombre()` y `getNota()`. Prueba las notas 0 y 20; después intenta -1 y 21 tanto al construir un estudiante como al usar `setNota()`. Para cada intento inválido, usa un bloque `try/catch` como el del ejemplo: debe aparecer el aviso y, si usaste el setter, conservarse la última nota válida.
 
 
-### Lección 5: Estructuras de Datos, Proyecto Final y Mejores Prácticas (12 minutos)
+### Lección 5: Estructuras de Datos, Proyecto Final y Mejores Prácticas (10:21 minutos)
 
 * **Responsable:** Becerra Durand, Sebastian Uriel
 * **Descripción:** Aprende a utilizar arrays en Java y a combinarlos con objetos mediante el desarrollo de un proyecto integrador basado en un Gestor de Mascotas.
