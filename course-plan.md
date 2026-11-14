@@ -27,7 +27,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Empieza a programar:** [Clic para programar](https://www.onlinegdb.com/)
 
 
-### Lección 2: Operadores y Estructuras de Control (12 minutos)
+### Lección 2: Operadores y Estructuras de Control (13:10 minutos)
 * **Descripción:** Realiza operaciones, toma decisiones con `if-else` y repite tareas con bucles `for` y `while`.
 * **Enlace:** [Ver la lección]([https://www.youtube.com/watch?v=example-link2](https://www.youtube.com/watch?v=w2DgzHzalvQ))
 * **Conclusiones clave:** `if (age > 12) {}`; `for (int i = 0; i < 5; i++) {}`
