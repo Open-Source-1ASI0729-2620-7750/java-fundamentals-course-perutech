@@ -43,7 +43,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 4: Introducción a la POO y Encapsulación (12 minutos)
 * **Descripción:** Da el salto a la Programación Orientada a Objetos creando clases, objetos, constructores y protegiendo datos con `getters` y `setters`.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+* **Enlace:** [Ver la lección](https://youtu.be/uKfFyXdJoYU)
 * **Conclusiones clave:** `class Pet { private String name; }`; instanciación con `new`.
 * **Práctica:** [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) **¡No necesitas registrarte!**
 
