@@ -42,11 +42,41 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Práctica:** [Clic para programar](https://jdoodle.com/execute-java-online/your-id) **¡Inicio inmediato!**
 
 
-### Lección 4: Introducción a la POO y Encapsulación (12 minutos)
-* **Descripción:** Da el salto a la Programación Orientada a Objetos creando clases, objetos, constructores y protegiendo datos con `getters` y `setters`.
-* **Enlace:** [Ver la lección](https://youtu.be/ESTJ2XHGpBA)
-* **Conclusiones clave:** `class Pet { private String name; }`; instanciación con `new`.
-* **Práctica:** [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) **¡No necesitas registrarte!**
+### Lección 4: Estudiantes, encapsulación, arrays y cadenas (12 minutos)
+* **Descripción:** Crea una clase `Estudiante` con nombre y nota. Después protege sus datos y reúne varios estudiantes en un array para mostrar sus nombres en mayúsculas.
+* **Enlace:** [Ver la lección 4](https://youtu.be/ft9aQ1GIczU)
+* **Objetivos:** Crear objetos con `new` y un constructor; proteger atributos con `private`; consultar y modificar datos mediante getters y setters; validar notas enteras de 0 a 20, inclusive; recorrer un `Estudiante[]` con `for` y transformar cadenas con `toUpperCase()`.
+* **Conclusiones clave:** Una clase es un molde y cada objeto tiene sus propios datos. Los arrays empiezan en la posición 0 y `grupo.length` indica cuántos elementos contienen. `toUpperCase()` devuelve texto en mayúsculas sin cambiar el nombre original.
+* **Código inicial:** [starter-files/lesson-04/Main.java](./starter-files/lesson-04/Main.java), ejecutable desde el primer momento.
+* **Ejemplo completo:** [completed-examples/lesson-04/Main.java](./completed-examples/lesson-04/Main.java), con encapsulación, validación y recorrido del grupo.
+* **Práctica:** [Abrir el compilador Java de OnlineGDB](https://www.onlinegdb.com/online_java_compiler). El enlace compartible con el código precargado mediante **Share** queda pendiente de generación y verificación.
+
+#### Cómo ejecutar la lección 4 en el navegador
+
+1. Abre el código inicial o el ejemplo completo desde los enlaces anteriores y copia **un solo archivo completo**, incluidas las clases `Estudiante` y `Main`.
+2. En OnlineGDB, selecciona **Java** y reemplaza todo el contenido de `Main.java` por el código copiado. No combines los dos archivos: cada uno funciona por separado, sin paquetes ni dependencias.
+3. Pulsa **Run** y compara la consola con la salida correspondiente. Repite con el otro archivo, reemplazando todo el contenido anterior.
+
+Salida del código inicial:
+
+```text
+Ana: 16
+```
+
+Salida del ejemplo completo:
+
+```text
+Nota invalida: debe estar entre 0 y 20.
+ANA -> 18
+LUIS -> 10
+SOFIA -> 14
+```
+
+El constructor utiliza `setNota()` para aplicar la misma validación desde el principio. Una nota fuera del intervalo provoca un error `IllegalArgumentException`: el constructor no crea el estudiante y el setter conserva la nota anterior. En `main`, `try` intenta cambiar la nota a 21 y `catch` captura ese error, muestra el aviso y permite continuar. Las notas 0 y 20 sí son válidas.
+
+#### Ejercicio de la lección 4
+
+Agrega a Diego con nota 9 e inclúyelo en `grupo`. Comprueba que aparezcan los cuatro estudiantes y el nombre `DIEGO` en mayúsculas. Usa `setNombre()` para cambiar su nombre y consulta sus datos con `getNombre()` y `getNota()`. Prueba las notas 0 y 20; después intenta -1 y 21 tanto al construir un estudiante como al usar `setNota()`. Para cada intento inválido, usa un bloque `try/catch` como el del ejemplo: debe aparecer el aviso y, si usaste el setter, conservarse la última nota válida.
 
 
 ### Lección 5: Estructuras de Datos, Proyecto Final y Mejores Prácticas (12 minutos)
@@ -73,7 +103,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | 1 | Hola mundo y Variables | [OnlineGDB](https://www.onlinegdb.com/) |
 | 2 | Decisiones y Bucles | [OnlineGDB](https://www.onlinegdb.com/) |
 | 3 | Métodos y Scanner | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Clases y Encapsulación | [OnlineGDB](https://www.onlinegdb.com/) |
+| 4 | Estudiantes, encapsulación, arrays y cadenas | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) · [Código inicial](./starter-files/lesson-04/Main.java) · [Ejemplo completo](./completed-examples/lesson-04/Main.java) |
 | 5 | Proyecto Integrador POO | [Replit](https://replit.com/@your-lesson5) |
 
 
