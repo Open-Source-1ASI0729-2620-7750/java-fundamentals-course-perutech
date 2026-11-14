@@ -12,3 +12,4 @@ Repositorio oficial del curso de programación en Java orientada a estudiantes d
 
 ## Enlaces de Interés
 * [Plan de Curso Detallado (PDF)](./course-plan.md)
+* [Lección 4: Estudiantes, encapsulación, arrays y cadenas](./course-plan.md#lección-4-estudiantes-encapsulación-arrays-y-cadenas-12-minutos): [video](https://youtu.be/ft9aQ1GIczU), [código inicial](./starter-files/lesson-04/Main.java) y [ejemplo completo](./completed-examples/lesson-04/Main.java).
