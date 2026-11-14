@@ -80,10 +80,13 @@ Agrega a Diego con nota 9 e inclúyelo en `grupo`. Comprueba que aparezcan los c
 
 
 ### Lección 5: Estructuras de Datos, Proyecto Final y Mejores Prácticas (12 minutos)
-* **Descripción:** Combina arrays con objetos para construir una aplicación completa desde cero y aprende a evitar errores comunes de principiante.
-* **Enlace:** [Ver la lección]((https://www.youtube.com/watch?v=example-link5](https://www.youtube.com/watch?v=1MZSEopU-hY))
-* **Conclusiones clave:** Arreglos de objetos, depuración básica y buenas prácticas en Java.
-* **Proyecto final:** [Crea tu aplicación POO](https://replit.com/@your-final-java) **¡Guarda y comparte!**
+
+* **Responsable:** Becerra Durand, Sebastian Uriel
+* **Descripción:** Aprende a utilizar arrays en Java y a combinarlos con objetos mediante el desarrollo de un proyecto integrador basado en un Gestor de Mascotas.
+* **Enlace:** [Ver la lección](https://youtu.be/1MZSEopU-hY)
+* **Conclusiones clave:** Uso de arrays, recorrido de arreglos con `for-each`, arreglos de objetos, métodos, depuración básica mediante `ArrayIndexOutOfBoundsException` y buenas prácticas de programación.
+* **Proyecto final:** Desarrollo de un **Gestor de Mascotas** que almacena objetos de tipo `Pet`, muestra su información, contabiliza las mascotas registradas e identifica la mascota de mayor edad.
+* **Práctica:** [Clic para programar en OneCompiler](https://onecompiler.com/java) **¡No requiere instalación!**
 
 
 ---
@@ -104,7 +107,7 @@ Agrega a Diego con nota 9 e inclúyelo en `grupo`. Comprueba que aparezcan los c
 | 2 | Decisiones y Bucles | [OnlineGDB](https://www.onlinegdb.com/) |
 | 3 | Métodos y Scanner | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4 | Estudiantes, encapsulación, arrays y cadenas | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) · [Código inicial](./starter-files/lesson-04/Main.java) · [Ejemplo completo](./completed-examples/lesson-04/Main.java) |
-| 5 | Proyecto Integrador POO | [Replit](https://replit.com/@your-lesson5) |
+| 5 | Proyecto Integrador POO - Gestor de Mascotas | [OneCompiler](https://onecompiler.com/java) |
 
 
 * **Compartir:** #JavaBeginners
