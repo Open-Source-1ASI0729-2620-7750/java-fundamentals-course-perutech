@@ -1,0 +1,115 @@
+{
+  "prepared_date": "2026-11-14",
+  "method": "GET anónimo; no reproducción audiovisual ni sesión de editor",
+  "results": [
+    {
+      "url": "https://github.com/Open-Source-1ASI0729-2620-7750/java-fundamentals-course-perutech",
+      "http": 200,
+      "final_url": "https://github.com/Open-Source-1ASI0729-2620-7750/java-fundamentals-course-perutech",
+      "note": "HTTP no confirma código precargado ni ejecución en navegador."
+    },
+    {
+      "url": "https://onecompiler.com/java",
+      "http": 200,
+      "final_url": "https://onecompiler.com/java",
+      "note": "HTTP no confirma código precargado ni ejecución en navegador."
+    },
+    {
+      "url": "https://onlinegdb.com/-HlatXPEr",
+      "http": 200,
+      "final_url": "https://www.onlinegdb.com/-HlatXPEr",
+      "note": "HTTP no confirma código precargado ni ejecución en navegador."
+    },
+    {
+      "url": "https://www.jdoodle.com/online-java-compiler",
+      "http": 200,
+      "final_url": "https://www.jdoodle.com/online-java-compiler",
+      "note": "HTTP no confirma código precargado ni ejecución en navegador."
+    },
+    {
+      "url": "https://www.onlinegdb.com/online_java_compiler",
+      "http": 200,
+      "final_url": "https://www.onlinegdb.com/online_java_compiler",
+      "note": "HTTP no confirma código precargado ni ejecución en navegador."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=w2DgzHzalvQ",
+      "http": 200,
+      "final_url": "https://www.youtube.com/watch?v=w2DgzHzalvQ",
+      "length_seconds_in_response": [
+        "791"
+      ],
+      "video_id": "w2DgzHzalvQ",
+      "title": "Lección 2: Operadores y Estructuras de Control",
+      "length_seconds": "791",
+      "playability_status": "OK",
+      "note": "HTTP no confirma reproducción, contenido ni privacidad."
+    },
+    {
+      "url": "https://youtu.be/1MZSEopU-hY",
+      "http": 200,
+      "final_url": "https://www.youtube.com/watch?v=1MZSEopU-hY&feature=youtu.be",
+      "length_seconds_in_response": [
+        "623"
+      ],
+      "video_id": "1MZSEopU-hY",
+      "title": "Leccion 5 - Fundamentos de Java",
+      "length_seconds": "623",
+      "playability_status": "OK",
+      "note": "HTTP no confirma reproducción, contenido ni privacidad."
+    },
+    {
+      "url": "https://youtu.be/O-vM5T0-jkY",
+      "http": 200,
+      "final_url": "https://www.youtube.com/watch?v=O-vM5T0-jkY&feature=youtu.be",
+      "length_seconds_in_response": [
+        "638",
+        "639"
+      ],
+      "video_id": "O-vM5T0-jkY",
+      "title": "Primeros pasos con Java",
+      "length_seconds": "638",
+      "playability_status": "OK",
+      "note": "HTTP no confirma reproducción, contenido ni privacidad."
+    },
+    {
+      "url": "https://youtu.be/d8fHd0szHwg?si=q3nGAqhbyXpdQYgX",
+      "http": 200,
+      "final_url": "https://www.youtube.com/watch?si=q3nGAqhbyXpdQYgX&v=d8fHd0szHwg&feature=youtu.be",
+      "length_seconds_in_response": [
+        "194"
+      ],
+      "video_id": "d8fHd0szHwg",
+      "title": "Lección 3: Métodos y Entrada/Salida de Datos",
+      "length_seconds": "194",
+      "playability_status": "OK",
+      "note": "HTTP no confirma reproducción, contenido ni privacidad."
+    },
+    {
+      "url": "https://youtu.be/ft9aQ1GIczU",
+      "http": 200,
+      "final_url": "https://www.youtube.com/watch?v=ft9aQ1GIczU&feature=youtu.be",
+      "length_seconds_in_response": [
+        "661"
+      ],
+      "video_id": "ft9aQ1GIczU",
+      "title": "Java para principiantes   Leccion 4  Encapsulación, Getter, Setters y Arrays",
+      "length_seconds": "661",
+      "playability_status": "OK",
+      "note": "HTTP no confirma reproducción, contenido ni privacidad."
+    },
+    {
+      "url": "https://youtu.be/uKfFyXdJoYU?si=B9qGhec98OymKk-K",
+      "http": 200,
+      "final_url": "https://www.youtube.com/watch?si=B9qGhec98OymKk-K&v=uKfFyXdJoYU&feature=youtu.be",
+      "length_seconds_in_response": [
+        "254"
+      ],
+      "video_id": "uKfFyXdJoYU",
+      "title": "Lección 4: Introducción a la POO",
+      "length_seconds": "254",
+      "playability_status": "OK",
+      "note": "HTTP no confirma reproducción, contenido ni privacidad."
+    }
+  ]
+}
