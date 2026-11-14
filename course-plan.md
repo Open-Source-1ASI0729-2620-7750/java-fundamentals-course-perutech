@@ -27,11 +27,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 * **Empieza a programar:** [Clic para programar](https://www.onlinegdb.com/)
 
 
-### Lección 2: Operadores y Estructuras de Control (12 minutos)
+### Lección 2: Operadores y Estructuras de Control (13:10 minutos)
 * **Descripción:** Realiza operaciones, toma decisiones con `if-else` y repite tareas con bucles `for` y `while`.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-* **Conclusiones clave:** `if (age > 12) {}`; `for (int i = 0; i < 5; i++) {}`
-* **Práctica:** [Clic para programar](https://replit.com/@your-variables-java) **¡No es necesario registrarse!**
+* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=w2DgzHzalvQ)
+* **Conclusiones clave:** `if (monedas >= precio) {}`; `for (int i = 1; i <= 3; i++) {}`; `while (energia > 0) {}`.
+* **Práctica:** [Clic para programar](https://onlinegdb.com/-HlatXPEr) **¡No es necesario registrarse!**
 
 
 ### Lección 3: Métodos y Entrada/Salida de Datos (12 minutos)
@@ -70,7 +70,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 | Número de lección | Actividad | Empezar a programar |
 | :--- | :--- | :--- |
 | 1 | Hola mundo y Variables | [OnlineGDB](https://www.onlinegdb.com/) |
-| 2 | Decisiones y Bucles | [Replit](https://replit.com/@your-lesson2) |
+| 2 | Decisiones y Bucles | [OnlineGDB](https://www.onlinegdb.com/) |
 | 3 | Métodos y Scanner | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4 | Clases y Encapsulación | [OnlineGDB](https://www.onlinegdb.com/) |
 | 5 | Proyecto Integrador POO | [Replit](https://replit.com/@your-lesson5) |
