@@ -36,7 +36,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 3: Métodos y Entrada/Salida de Datos (12 minutos)
 * **Descripción:** Crea código reutilizable con métodos y recibe datos del usuario por consola usando `Scanner`.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+* **Enlace:** [Ver la lección](https://youtu.be/d8fHd0szHwg?si=q3nGAqhbyXpdQYgX)
 * **Conclusiones clave:** `public static void greet() {}`; uso de `Scanner`.
 * **Práctica:** [Clic para programar](https://jdoodle.com/execute-java-online/your-id) **¡Inicio inmediato!**
 
