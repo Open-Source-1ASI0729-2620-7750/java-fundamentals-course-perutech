@@ -1,0 +1,135 @@
+{
+  "prepared_date": "2026-11-14",
+  "compiler": "javac 27.0.1.0.3",
+  "release": 17,
+  "independent_files": 14,
+  "boundary_result": "PASS 8 casos limite y get/set nombre",
+  "results": [
+    {
+      "file": "completed-examples/leccion1.java",
+      "sha256": "13686aa637824f749e70bb650ad29364040ccd23c49a68a818991b55ed236ce0",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": "Hola, estoy aprendiendo Java\nNombre: Lucia\nEdad: 16\nNota: 18.5\nEstudiante activo: true\nTotal a pagar: 150\n"
+    },
+    {
+      "file": "completed-examples/leccion2.java",
+      "sha256": "0d35f4d1bdcf18a915992ca59bf9c1c56a6b8406ebd55a77901e98fdd598e3b1",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": "=== LECCION 2: ESTRUCTURAS DE CONTROL Y METODOS ===\n\n--- 1. Decisiones con if - else ---\nCaso 1: Compra exitosa! Te alcanza para la espada.\nMonedas restantes: 20\nCaso 2: No te alcanza para la armadura, solo tienes 20 monedas.\n\n--- 2. Rangos con else if ---\nRango actual: Avanzado\n\n--- 3. Repeticiones con bucle for ---\nCompletando mision diaria numero: 1\nCompletando mision diaria numero: 2\nCompletando mision diaria numero: 3\n\n--- 4. Repeticiones con bucle while ---\nEntrenando personaje... Energia actual: 3\nEntrenando personaje... Energia actual: 2\nEntrenando personaje... Energia actual: 1\nPersonaje sin energia, hora de descansar!\n\n--- 5. Usando nuestros metodos ---\n-----------------------------------\nHola, Alex! Listo para la mision.\n-----------------------------------\nHola, Sofia! Listo para la mision.\nEl puntaje total obtenido es: 300\n"
+    },
+    {
+      "file": "completed-examples/leccion4.java",
+      "sha256": "a26b75ac20ac83d07b6697e3122d8ba5ff7e28c129fa5d6418450662e3143d61",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": "CATÁLOGO DE LA BIBLIOTECA\n\nLibro 1\nTítulo: Java desde cero\nAutor: Carlos Ruiz\nPáginas: 180\n\nLibro 2\nTítulo: Aprendiendo programación\nAutor: Ana Torres\nPáginas: 220\n\nLibro 3\nTítulo: Introducción a Java\nAutor: Luis Pérez\nPáginas: 150\n\nRESULTADO DE LA BÚSQUEDA\nLibro encontrado: Java desde cero\nLibro encontrado: Introducción a Java\n"
+    },
+    {
+      "file": "completed-examples/leccion5.java",
+      "sha256": "12a3ecde72ea6793193d6cd9d3b7c3752f7db8ffa52b0356c4cbc7696ea52f62",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": "=== MIS MASCOTAS ===\nNombre: Luna | Edad: 3 | Tipo: Perro\nNombre: Michi | Edad: 2 | Tipo: Gato\nNombre: Rocky | Edad: 5 | Tipo: Perro\nNombre: Nala | Edad: 1 | Tipo: Gato\n\nCantidad de mascotas registradas: 4\n\nLa mascota de mayor edad es: Rocky con 5 años.\n\n=== PROGRAMA FINALIZADO ===\n"
+    },
+    {
+      "file": "completed-examples/lesson-04/Main.java",
+      "sha256": "744aa7da700989a0da7c02e751ef68411a7f52edea89da5677ec211e1f22b82e",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": "Nota invalida: debe estar entre 0 y 20.\nANA -> 18\nLUIS -> 10\nSOFIA -> 14\n"
+    },
+    {
+      "file": "completed-examples/lesson3.1.java",
+      "sha256": "9ba1a31fd4522b9043552b048f874b1bf4826a546e649c4502ae8db9c2b039af",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "Ana\n15\n",
+      "stdout": "¡Hola! ¿Cómo te llamas?\n¿Cuántos años tienes?\nGenial, Ana. Tienes 15 años. ¡Bienvenido al mundo de la programación!\n"
+    },
+    {
+      "file": "completed-examples/lesson3.2.java",
+      "sha256": "a72ae396dc35dea2616e9b8c8c9ac8049a12299bcd891adf5a8bfcfc050e48f6",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": "Firulais comió croquetas. Su energía subió a: 120\nPelusa comió croquetas. Su energía subió a: 120\n"
+    },
+    {
+      "file": "starter-files/leccion1.java",
+      "sha256": "9428430e398a14f73f74cdd0471aaf2f6d91da36e13b4413c420bf49da0653f3",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": ""
+    },
+    {
+      "file": "starter-files/leccion2.java",
+      "sha256": "adf255002be30226564259e4a272077fdca6f128f2fd182ec6d5bd790999e267",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": "=== BIENVENIDO A LA LECCION 2 ===\n"
+    },
+    {
+      "file": "starter-files/leccion4.java",
+      "sha256": "8bdced185d656784cfea4debf3dd14fb700f46694fd27ced4b6ddcb7fe5a420f",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": ""
+    },
+    {
+      "file": "starter-files/leccion5.java",
+      "sha256": "1dc5b2c63f064d40a7f78deb113c8fdd72c0e19752b2a5bd2fd987132c1d9abd",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": ""
+    },
+    {
+      "file": "starter-files/lesson-04/Main.java",
+      "sha256": "c050b7dae5f25f94e694cb34b1a6809e4a0526a7138084175a48aeea386988cf",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": "Ana: 16\n"
+    },
+    {
+      "file": "starter-files/lesson3.1.java",
+      "sha256": "a968ae5a1cb9230eb8ea1c0c0173842c14e6125e8122e8eda942d0f03f95667f",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": ""
+    },
+    {
+      "file": "starter-files/lesson3.2.java",
+      "sha256": "60c33d8c633367d3624d34660ed08fff2e339bfcf2bfa9d593f763aa7034e153",
+      "compiled": true,
+      "executed": true,
+      "exact_output": true,
+      "stdin": "",
+      "stdout": ""
+    }
+  ]
+}

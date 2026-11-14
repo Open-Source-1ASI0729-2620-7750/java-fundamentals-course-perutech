@@ -1,0 +1,177 @@
+{
+  "prepared_date": "2026-11-14",
+  "plan_pdf_pages": 7,
+  "plan_pdf_sha256": "0b5b223bf2c274eea639b9c2dd67068cefbbcbc448965de68b521e3f4b9ff994",
+  "plan_content_complete": true,
+  "clickable_links": 40,
+  "local_links": [
+    {
+      "file": "README.md",
+      "target": "./course-plan.md"
+    },
+    {
+      "file": "README.md",
+      "target": "./starter-files/leccion1.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./completed-examples/leccion1.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./starter-files/leccion2.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./completed-examples/leccion2.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./starter-files/lesson3.1.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./completed-examples/lesson3.1.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./starter-files/lesson3.2.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./completed-examples/lesson3.2.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./starter-files/lesson-04/Main.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./completed-examples/lesson-04/Main.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./starter-files/leccion5.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./completed-examples/leccion5.java"
+    },
+    {
+      "file": "README.md",
+      "target": "./verification/entrega-checklist.md"
+    },
+    {
+      "file": "README.md",
+      "target": "./verification/java-results.json"
+    },
+    {
+      "file": "README.md",
+      "target": "./deliverables/upc-pre-202620-1asi0729-7750-perutech-course-plan.pdf"
+    },
+    {
+      "file": "README.md",
+      "target": "./deliverables/perutech-java-fundamentals-artifacts.zip"
+    },
+    {
+      "file": "README.md",
+      "target": "./verification/entrega-checklist.md"
+    },
+    {
+      "file": "README.md",
+      "target": "./tools/README.md"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./starter-files/leccion1.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./completed-examples/leccion1.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./scripts/leccion1.md"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./starter-files/leccion2.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./completed-examples/leccion2.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./scripts/leccion2.md"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./starter-files/lesson3.1.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./completed-examples/lesson3.1.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./scripts/lesson3.1.md"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./starter-files/lesson3.2.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./completed-examples/lesson3.2.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./scripts/leccion3.2.md"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./starter-files/lesson-04/Main.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./completed-examples/lesson-04/Main.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./scripts/lesson-04.md"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./scripts/leccion4.md"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./starter-files/leccion5.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./completed-examples/leccion5.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./scripts/leccion5.md"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./verification/java-results.json"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./starter-files/lesson-04/Main.java"
+    },
+    {
+      "file": "course-plan.md",
+      "target": "./completed-examples/lesson-04/Main.java"
+    }
+  ],
+  "java_files_verified": 14,
+  "zip_files": 23,
+  "zip_integrity": true,
+  "participation_reports_included": false
+}
